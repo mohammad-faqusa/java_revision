@@ -23,6 +23,6 @@ public class Main {
         System.out.println(myChar.charValue()); 
         System.out.println(myDouble.doubleValue()); 
 
-
+        
     }
 }
